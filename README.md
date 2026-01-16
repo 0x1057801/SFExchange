@@ -1,2 +1,2 @@
 # SFExchange
-This is a simple token exchange I built to better understand ERC-20 token interactions, how you can swap tokens via smart contracts, and how to write interoperable smart contracts more generally.  I completed as part of my study of the RareSkills Solidity content study.  
+This is a simple token exchange I built to better understand ERC-20 token interactions, how you can swap tokens via smart contracts, and how to write interoperable smart contracts more generally.  I completed as part of my study of the RareSkills Solidity content study.  The idea is that anyone can mint KenCoins on the SF Exchange but you can only obtain RyuCoins by sending KenCoins to the RyuCoin contract via approval by the KenCoin contract. 
